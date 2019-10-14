@@ -12,6 +12,14 @@ body {
     font-family: sans-serif;
 }
 
+footer a {
+    color:red;
+}
+
+h2 {
+    margin-top:10px;
+}
+
 nav  {
     padding:10px;
     line-height: 30px;
@@ -41,4 +49,9 @@ nav ul.right {
 nav ul li {
     margin-right:5px;
     margin-left:5px;
+}
+
+div.container {
+    width:95%;
+    margin:auto;
 }
